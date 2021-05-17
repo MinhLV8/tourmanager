@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/doan/config/JPAConfig.java=UTF-8
+encoding//src/main/java/com/doan/entity/NewCategoryEntity.java=UTF-8
+encoding//src/main/java/com/doan/entity/TourCategoryEntity.java=UTF-8
+encoding//src/main/java/com/doan/entity/TourEntity.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/login.jsp=UTF-8
